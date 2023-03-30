@@ -1,0 +1,38 @@
+ <nav class="navbar">
+      <div class="container">
+        <div class="navbar-container">
+          <!-- Brand -->
+          <div class="brand">
+            <p class="brand-title">Fitness</p>
+          </div>
+          <!-- Nav Links -->
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a href="" class="nav-link text-lg">Home</a>
+            </li>
+            <li class="nav-item">
+              <a href="" class="nav-link text-lg">About Us</a>
+            </li>
+            <li class="nav-item">
+              <a href="" class="nav-link text-lg">Community</a>
+            </li>
+            <li class="nav-item">
+              <a href="" class="nav-link text-lg">Service</a>
+            </li>
+            <li class="nav-item">
+              <a href="" class="nav-link text-lg">Contact</a>
+            </li>
+          </ul>
+          <!-- Action Buttons  -->
+          <div class="navbar-action">
+            <a href="" class="btn btn-nav">Join Now</a>
+          </div>
+          <!-- Menu button -->
+          <!-- <div class="navbar-menu">
+            <button class="btn">
+              <i class="fa-solid fa-bars"></i>
+            </button>
+          </div> -->
+        </div>
+      </div>
+    </nav>
