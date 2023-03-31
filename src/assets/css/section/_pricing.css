@@ -101,3 +101,11 @@
         align-items: start;
     }
 }
+
+@media (max-width: 500px) {
+    .pricing-body-list {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  }

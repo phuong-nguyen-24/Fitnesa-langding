@@ -58,3 +58,10 @@
         gap: 1rem;
     }
 }
+
+@media (max-width: 500px) {
+    .footer-list {
+      display: flex;
+      flex-direction: column;
+    }
+  }

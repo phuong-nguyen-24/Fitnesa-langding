@@ -46,3 +46,10 @@
     height: 430px;
   }
 }
+
+@media (max-width: 400px) {
+  .features-img {
+    display: flex;
+    flex-direction: column;
+  }
+}

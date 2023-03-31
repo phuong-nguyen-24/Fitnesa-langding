@@ -53,3 +53,30 @@
         right: 12;
     }
 }
+
+@media (max-width: 500px) {
+    .btn-letter {
+        max-width: 6rem;
+        width: 100%;
+        padding: 5px 1px;
+        font-size: 0.8rem;
+    }
+    .letter-input {
+        height: 65px;
+    }
+}
+
+@media (max-width: 400px) {
+    .btn-letter {
+        max-width: 4rem;
+        width: 100%;
+        padding: 0.5px 0.5px;
+        font-size: 0.6rem;
+    }
+    .letter-input {
+        height: 55px;
+        font-size: 0.6rem;
+        padding-left: 1rem;
+    }
+}
+
